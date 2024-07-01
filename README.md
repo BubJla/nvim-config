@@ -7,6 +7,10 @@ Installation:
 
 2. Copy into configs: cp -r ./nvim-config/nvim ~/.config
 
+=> when you launch nvim the first time plugins will be installed:
+You should wait to finish the installation then hit q to exit the lazy.nvim window.
+When there is a message at the bottom of nvim that updates for plugins are available just run :Lazy sync inside of neovim.
+
 Loadup-time: 65ms
 
 Screenshots:
