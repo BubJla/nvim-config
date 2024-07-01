@@ -1,9 +1,11 @@
 # nvim-config
 beautiful nvim-config
 
+Installation:
 
-Downlaod: git clone https://github.com/BubJla/nvim-config.git
+1. Downlaod: git clone https://github.com/BubJla/nvim-config.git
 
+2. cp -r ./nvim-config/nvim ~/.config
 
 Loadup-time: 65ms
 
