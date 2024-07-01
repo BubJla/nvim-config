@@ -28,10 +28,10 @@ Auto-completition:
 
 | Function | keybinding |
 |----------|----------|
-| Open File | CTRL + o |
-| Fuzzyly search for File   | ALT + o |
-| Fuzzyly search inside file | CTRL + f |
+| Open File | CTRL + O |
+| Fuzzyly search for File   | ALT + O |
+| Fuzzyly search inside file | CTRL + F |
 | Next Tab | TAB |
 | Previous TAB | SHIFT + TAB |
-| Close TAB | CTRL + w/q |
+| Close TAB | CTRL + W/Q |
 | New TAB | CTRL/ALT + TAB |
