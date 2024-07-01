@@ -29,5 +29,5 @@ Auto-completition:
 | Function | keybinding |
 |----------|----------|
 | Cell 1   | Cell 2   |
-|----------|----------|
+| Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   |
