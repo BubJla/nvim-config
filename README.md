@@ -28,6 +28,10 @@ Auto-completition:
 
 | Function | keybinding |
 |----------|----------|
-| Cell 1   | Cell 2   |
-| Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   |
+| Open File | CTRL + o |
+| Fuzzyly search for File   | ALT + o |
+| Fuzzyly search inside file | CTRL + f |
+| Next Tab | TAB |
+| Previous TAB | SHIFT + TAB |
+| Close TAB | CTRL + w/q |
+| New TAB | CTRL/ALT + TAB |
