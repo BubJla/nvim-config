@@ -24,3 +24,10 @@ Screenshots:
 Auto-completition:
 
 ![image](https://github.com/BubJla/nvim-config/assets/123741924/1529983b-91cf-4928-ad7e-254ce7ef3766)
+
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+|----------|----------|----------|
+| Cell 4   | Cell 5   | Cell 6   |
