@@ -25,7 +25,7 @@ Screenshots:
 ![image](https://github.com/BubJla/nvim-config/assets/123741924/bdd94643-633e-41fa-b336-50a2803a8f8c)
 
 
-Auto-completition:
+Auto-completition + Snippets:
 
 ![image](https://github.com/BubJla/nvim-config/assets/123741924/1529983b-91cf-4928-ad7e-254ce7ef3766)
 
