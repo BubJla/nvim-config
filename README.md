@@ -1,6 +1,10 @@
 # nvim-config
 beautiful nvim-config
 
+Requirements:
+neovim
+nerd-font(e.g. ttf-firacode-nerd)
+
 Installation:
 
 1. Downlaod: git clone https://github.com/BubJla/nvim-config.git
