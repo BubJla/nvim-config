@@ -11,7 +11,7 @@ Installation:
 
 2. Copy into configs: cp -r ./nvim-config/nvim ~/.config
 
- (  3. Clean up: rm -r ./nvim-config)
+ (    3. Clean up: rm -r ./nvim-config)
 
 => when you launch nvim the first time plugins will be installed:
 You should wait to finish the installation then hit q to exit the lazy.nvim window.
