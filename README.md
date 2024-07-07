@@ -1,8 +1,9 @@
 # nvim-config
 beautiful nvim-config
 
-Requirements:
+dependencies:
 neovim
+npm
 nerd-font(e.g. ttf-firacode-nerd)
 
 Installation:
